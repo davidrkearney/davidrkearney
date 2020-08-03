@@ -1,4 +1,4 @@
-### Senior Data Scientist at CVSHealth. Duke University Ph.D.
+### Senior Data Scientist at CVSHealth
 
 
 
