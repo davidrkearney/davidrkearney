@@ -1,4 +1,6 @@
-### Hi there 👋
+### Senior Data Scientist at CVSHealth. Duke University Ph.D.
+
+
 
 <!--
 **davidrkearney/davidrkearney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
