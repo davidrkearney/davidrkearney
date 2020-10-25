@@ -1,6 +1,6 @@
 **Welcome to David Kearney's GitHub page!**
 
-# Senior Data Scientist at CVSHealth
+## Senior Data Scientist at CVSHealth
 
 
  + [Linkedin](https://www.linkedin.com/in/davidrkearney)
