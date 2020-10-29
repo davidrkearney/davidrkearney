@@ -5,7 +5,7 @@
 + [Linkedin](https://www.linkedin.com/in/davidrkearney)
 
 
-## Hi 👋, 
+## Hi, 
 
 I'm David Kearney, a Data Scientist.
 </br>
