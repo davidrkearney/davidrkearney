@@ -4,6 +4,10 @@
 
 + [Linkedin](https://www.linkedin.com/in/davidrkearney)
 
+https://img.shields.io/badge/Linkedin-David%20Kearney-blue
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-David_Kearney-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davidrkearney/)](https://www.linkedin.com/in/davidrkearney/) 
 
 ## Hi, 
 
