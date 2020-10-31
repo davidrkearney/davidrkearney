@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-David_Kearney-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davidrkearney/)](https://www.linkedin.com/in/davidrkearney/) 
 [![Medium Badge](https://img.shields.io/badge/-David_Kearney-black?style=flat-square&labelColor=black&logo=Medium&link=https://medium.com/@david.raymond.kearney/)](https://medium.com/@david.raymond.kearney) 
 
-## Code and Creative:
+## Machine Learning & AI Code and Creative:
 [![Github](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=https://github.com/davidrkearney)](https://github.com/davidrkearney) 
 [![RSS Feed](https://img.shields.io/badge/rss-%23FFA500.svg?&style=for-the-badge&logo=rss&logoColor=white&link=http://davidkearney.xyz/Kearney_Data_Science/feed.xml)](http://davidkearney.xyz/Kearney_Data_Science/feed.xml) 
 
