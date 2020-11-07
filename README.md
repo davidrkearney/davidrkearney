@@ -4,11 +4,11 @@
 ## Senior Data Scientist at CVSHealth
 
 <p align="center">
-	<a href="https://github.com/davidrkearney/"><img src="https://img.shields.io/github/followers/davidrkearney.svg?label=GitHub&style=social" alt="GitHub"></a>
+	<a href="https://github.com/davidrkearney/"><img src="https://img.shields.io/github/followers/davidrkearney.svg?label=GitHub&style=social" alt="GitHub"></a>  
+</p>
+
 [![Linkedin Badge](https://img.shields.io/badge/-David_Kearney-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davidrkearney/)](https://www.linkedin.com/in/davidrkearney/) 
 [![Medium Badge](https://img.shields.io/badge/-David_Kearney-black?style=flat-square&labelColor=black&logo=Medium&link=https://medium.com/@david.raymond.kearney/)](https://medium.com/@david.raymond.kearney) 
-  
-</p>
 
 ## Machine Learning & AI Code and Creative:
 [![Github](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=https://github.com/davidrkearney)](https://github.com/davidrkearney) 
