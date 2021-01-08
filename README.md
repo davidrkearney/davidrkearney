@@ -27,7 +27,7 @@
 
 ## Hi, 
 
-I'm David Kearney, a Data Scientist.
+I'm David, a Data Scientist.
 </br>
 ![David's github stats](https://github-readme-stats.vercel.app/api?username=davidrkearney&show_icons=true&count_private=true&hide=issues,contribs&include_all_commits=true&custom_title=&icon_color=000000&title_color=000000&hide_border=true)
 
