@@ -24,11 +24,6 @@
 ![](https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white)
 
 
-
-<h1 align="center">Hi, I'm David Raymond Kearney</h1>
-<h3 align="center">a Data Scientist</h3>
-
-
 Github stats:
 </br>
 ![David's github stats](https://github-readme-stats.vercel.app/api?username=davidrkearney&show_icons=true&count_private=true&hide=issues,contribs&include_all_commits=true&custom_title=&icon_color=000000&title_color=000000&hide_border=true)
@@ -37,8 +32,9 @@ Github stats:
 
 <!--
 
-<h1 align="center">Hi, I'm David Raymond Kearney, a Data Scientist.</h1>
 
+<h1 align="center">Hi, I'm David Raymond Kearney</h1>
+<h3 align="center">a Data Scientist</h3>
 
 <h3 align="center">a Data Scientist</h3>
 
