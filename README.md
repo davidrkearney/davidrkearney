@@ -3,6 +3,11 @@
 
 ## Senior Data Scientist at CVSHealth
 
+<h1 align="center">Hi 👋, I'm David Kearney</h1>
+<h3 align="center">Love exploring new trends in Machine-Learning and Deep-Learning</h3>
+
+
+
 <p align="center">
 	<a href="https://github.com/davidrkearney/"><img src="https://img.shields.io/github/followers/davidrkearney.svg?label=GitHub&style=social" alt="GitHub"></a>  
 </p>
@@ -32,8 +37,14 @@ I'm David Raymond Kearney, a Data Scientist.
 ![David's github stats](https://github-readme-stats.vercel.app/api?username=davidrkearney&show_icons=true&count_private=true&hide=issues,contribs&include_all_commits=true&custom_title=&icon_color=000000&title_color=000000&hide_border=true)
 
 
+
 <!--
 **davidrkearney/davidrkearney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+**My latest blog post**
+[![David Kearney Medium](https://github-readme-medium.vercel.app/?username=@david.raymond.kearney)](https://medium.com/@david.raymond.kearney)
+
+
 
 Here are some ideas to get you started:
 
