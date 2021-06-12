@@ -28,6 +28,8 @@
 <h1 align="center">Hi, I'm David Raymond Kearney</h1>
 <h3 align="center">a Data Scientist</h3>
 
+
+#test
 </br>
 ![David's github stats](https://github-readme-stats.vercel.app/api?username=davidrkearney&show_icons=true&count_private=true&hide=issues,contribs&include_all_commits=true&custom_title=&icon_color=000000&title_color=000000&hide_border=true)
 
