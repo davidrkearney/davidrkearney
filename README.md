@@ -2,9 +2,6 @@
 # Welcome to David Raymond Kearney's GitHub page!
 
 
-
-
-
 <p align="center">
 	<a href="https://github.com/davidrkearney/"><img src="https://img.shields.io/github/followers/davidrkearney.svg?label=GitHub&style=social" alt="GitHub"></a>  
 </p>
@@ -27,6 +24,9 @@
 ![](https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white)
 
 
+
+<h1 align="center">Hi, I'm David Raymond Kearney</h1>
+<h3 align="center">a Data Scientist</h3>
 
 </br>
 ![David's github stats](https://github-readme-stats.vercel.app/api?username=davidrkearney&show_icons=true&count_private=true&hide=issues,contribs&include_all_commits=true&custom_title=&icon_color=000000&title_color=000000&hide_border=true)
