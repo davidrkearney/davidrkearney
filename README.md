@@ -11,7 +11,6 @@
 
 ## Machine Learning & AI Code and Creative:
 [![Github](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=https://github.com/davidrkearney)](https://github.com/davidrkearney) 
-[![RSS Feed](https://img.shields.io/badge/rss-%23FFA500.svg?&style=for-the-badge&logo=rss&logoColor=white&link=http://davidkearney.xyz/Kearney_Data_Science/feed.xml)](http://davidkearney.xyz/Kearney_Data_Science/feed.xml) 
 
 
 ## Skills:
